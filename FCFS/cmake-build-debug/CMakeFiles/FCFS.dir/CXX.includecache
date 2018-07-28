@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lihui/CLionProjects/OS_project/FCFS/FCFS.h
+iostream
+-
+vector
+-
+PCB.h
+/home/lihui/CLionProjects/OS_project/FCFS/PCB.h
+
+/home/lihui/CLionProjects/OS_project/FCFS/PCB.h
+string.h
+-
+iostream
+-
+
+/home/lihui/CLionProjects/OS_project/FCFS/main.cpp
+iostream
+-
+PCB.h
+/home/lihui/CLionProjects/OS_project/FCFS/PCB.h
+FCFS.h
+/home/lihui/CLionProjects/OS_project/FCFS/FCFS.h
+
