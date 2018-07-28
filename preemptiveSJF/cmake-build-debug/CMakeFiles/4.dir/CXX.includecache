@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/NonpreemptiveSJF.h
+iostream
+-
+vector
+-
+PCB.h
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/PCB.h
+
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/PCB.h
+string.h
+-
+iostream
+-
+
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/main.cpp
+iostream
+-
+PCB.h
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/PCB.h
+NonpreemptiveSJF.h
+/home/lihui/CLionProjects/OS_project/preemptiveSJF/NonpreemptiveSJF.h
+
